@@ -23,7 +23,7 @@
 
 8 != 9
 
-`abs(101) == abs(-101)`
+abs(101) == abs(-101)
 
 18489 modulo 23 (Google modulo syntax if you don't know it)
 

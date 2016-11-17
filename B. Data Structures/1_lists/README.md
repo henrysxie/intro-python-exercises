@@ -1,4 +1,5 @@
 - Create a list called `restaurants` consisting of the following elements in this order:
+
 "Laut", "Random String", "Chipotle", "Eataly", "Sophie's Cuban", "Chop't", "Potbelly's"
 
 ## Basic List Operations
