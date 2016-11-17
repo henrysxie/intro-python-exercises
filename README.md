@@ -1,2 +1,2 @@
 # intro-python-exercises
-Class exercises for Intro Python
+Introductory Python Exercises to be done in class.
